@@ -278,7 +278,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/vtrskrishna%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vtrskrishna@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-krishna-votturu-0565b3297/)
 [![GitHub](https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vtrskrishna-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://krishna-s-portfolio-two.vercel.app/)
 
 </div>
 
